@@ -1,18 +1,31 @@
 classe,latitude,longitude,vitesse,date,heure,image_url
 panneau,5.43,10.04,45.6,2025-06-11,10:30,image_url_test
-Speed Limit 60,5.354092,10.431272,0.41,110625,194942.000,https://i.ibb.co/21qMRYJB/e91128c576a4.jpg
-Speed Limit 20,5.354075,10.431267,0.28,110625,194957.000,https://i.ibb.co/bgc5hVGN/25476af8611e.jpg
-Speed Limit 120,5.354075,10.431265,0.15,110625,195001.000,https://i.ibb.co/9mLKyzwH/5593af01fde9.jpg
-Speed Limit 20,5.354075,10.431265,0.22,110625,195003.000,https://i.ibb.co/CRSy4Vn/6f3a50baa855.jpg
-Speed Limit 80,5.354077,10.431268,0.22,110625,195015.000,https://i.ibb.co/CshKYnxt/98470b68c7c3.jpg
-Speed Limit 80,5.354075,10.431267,0.11,110625,195019.000,https://i.ibb.co/hJrwRJVm/2855f83e032b.jpg
-Speed Limit 80,5.35407,10.431262,0.37,110625,195023.000,https://i.ibb.co/Y4Zk691d/bd9e3b069f47.jpg
-Speed Limit 100,5.354063,10.431262,0.24,110625,195031.000,https://i.ibb.co/MD15kPJg/56407b1ca8f9.jpg
-Speed Limit 100,5.35412,10.43121,0.61,110625,200214.000,https://i.ibb.co/vxQ5KSHM/36c959463bf8.jpg
-Speed Limit 100,5.354117,10.431217,0.41,110625,200223.000,https://i.ibb.co/GftY9ZP3/8f93898e7a79.jpg
-Speed Limit 80,5.354105,10.431217,0.57,110625,200232.000,https://i.ibb.co/N6jYDsz6/89892df7d0e5.jpg
-Speed Limit 80,5.354105,10.431228,0.35,110625,200236.000,https://i.ibb.co/FkQpHpRL/e6be38b94cac.jpg
-Speed Limit 60,5.3541,10.43122,0.33,110625,200249.000,https://i.ibb.co/7JVhsHk6/995d451aa765.jpg
-Speed Limit 120,5.354092,10.431207,0.33,110625,200300.000,https://i.ibb.co/ZpyHXBL9/e440c748b7ed.jpg
-Speed Limit 20,5.35409,10.431205,0.22,110625,200302.000,https://i.ibb.co/jZ3t3Zpv/55187554966c.jpg
-Speed Limit 120,5.354095,10.431207,0.41,110625,200309.000,https://i.ibb.co/MKPSss7/5211a61cbc4b.jpg
+Speed Limit 20,5.352407,10.431567,0.63,110625,193700.000,https://i.ibb.co/9kd5jgsm/202418a4ccdf.jpg
+Speed Limit 20,5.352405,10.431563,0.39,110625,193704.000,https://i.ibb.co/d0Lp06mp/ec626a9bfed1.jpg
+Speed Limit 120,5.352408,10.431563,0.67,110625,193706.000,https://i.ibb.co/s48W9kV/744be43497b5.jpg
+Speed Limit 120,5.352443,10.431558,1.8,110625,193710.000,https://i.ibb.co/k20C7NLR/b4deb447031a.jpg
+Red Light,5.3525,10.431552,2.15,110625,193715.000,https://i.ibb.co/PvgFv0mC/1f492b1f1275.jpg
+Speed Limit 60,5.352607,10.431558,2.83,110625,193726.000,https://i.ibb.co/q3kxkS4G/ec562f1a4ee8.jpg
+Speed Limit 60,5.352635,10.431567,2.63,110625,193730.000,https://i.ibb.co/spRgb364/008eb519e65c.jpg
+Speed Limit 60,5.352652,10.431568,2.41,110625,193734.000,https://i.ibb.co/LD0YHFWw/ea905b52ae51.jpg
+Speed Limit 60,5.352655,10.431567,1.89,110625,193738.000,https://i.ibb.co/4RFXLw3g/b70459d7bffd.jpg
+Speed Limit 20,5.352797,10.43136,1.78,110625,194029.000,https://i.ibb.co/vxPt182T/53eafdaf668c.jpg
+Speed Limit 120,5.352763,10.431357,1.87,110625,194034.000,https://i.ibb.co/0pJsKRHq/ba823c7f0c29.jpg
+Speed Limit 20,5.352753,10.43135,1.89,110625,194036.000,https://i.ibb.co/0jCKwHgy/aa826e1e0624.jpg
+Speed Limit 20,5.3527,10.43134,2.43,110625,194040.000,https://i.ibb.co/ZRS7X5XJ/56f6b9b15825.jpg
+Speed Limit 120,5.352673,10.431337,2.5,110625,194042.000,https://i.ibb.co/ntg8DLL/6cab4c5ccabc.jpg
+Speed Limit 80,5.354563,10.431122,3.22,110625,194335.000,https://i.ibb.co/HLxfwScS/ef3ad510418c.jpg
+Speed Limit 80,5.354525,10.431173,1.37,110625,194339.000,https://i.ibb.co/5hscYKnT/98b72dadb2e8.jpg
+Speed Limit 80,5.35459,10.431245,1.48,110625,194343.000,https://i.ibb.co/sdQgtZ5S/e8fbcfd8b1f9.jpg
+Speed Limit 100,5.354728,10.431338,0.76,110625,194354.000,https://i.ibb.co/zW9YxSLz/58a899c8d712.jpg
+Speed Limit 100,5.354763,10.431365,0.76,110625,194358.000,https://i.ibb.co/6cSpSf0j/eeeafc2a298f.jpg
+Speed Limit 100,5.354795,10.431377,0.8,110625,194402.000,https://i.ibb.co/3m13x984/758fb0c4b71d.jpg
+Speed Limit 60,5.35497,10.431447,1.41,110625,194412.000,https://i.ibb.co/GQQMJYpS/b644b74a6003.jpg
+Speed Limit 60,5.35506,10.431465,0.98,110625,194416.000,https://i.ibb.co/996hcqff/71d8c4921713.jpg
+Speed Limit 60,5.355152,10.431483,1.09,110625,194420.000,https://i.ibb.co/cM9vsWN/079610df7ffb.jpg
+Speed Limit 60,5.355062,10.431443,0.57,110625,194424.000,https://i.ibb.co/GQ9QdhKK/490d7424b7e2.jpg
+Speed Limit 20,5.35504,10.431427,0.48,110625,194432.000,https://i.ibb.co/fdxtmpZM/a28437ccd883.jpg
+Speed Limit 20,5.355092,10.431448,0.13,110625,194436.000,https://i.ibb.co/PzZqPVqC/8da71dbca32b.jpg
+Speed Limit 120,5.355112,10.431457,0.65,110625,194438.000,https://i.ibb.co/PsrYVPcQ/0105963caa30.jpg
+Speed Limit 120,5.355148,10.43147,0.41,110625,194442.000,https://i.ibb.co/BHdVfBHF/1d56b6452b89.jpg
+Speed Limit 100,5.354097,10.431188,0.2,110625,201727.000,https://i.ibb.co/1JdckQ0W/6da8369c9bab.jpg
